@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <nav className="border-b p-6">
-        <p className="text-4xl font-bold">YogaFire NFT Marketplace (Test On Polygon Mumbai Network)</p>
+        <p className="text-4xl font-bold">YogaFire NFT Marketplace (App Only Work On Polygon Mumbai Network)</p>
         <div className="flex mt-4">
           <Link href="/">
             <a className="mr-4 text-pink-500">
